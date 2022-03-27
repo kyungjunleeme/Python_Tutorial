@@ -30,3 +30,6 @@ Only the latter form of a suite can contain nested compound statements; the foll
 mostly because it wouldn’t be clear to which if clause a following else clause would belong:
 
 ![image](https://user-images.githubusercontent.com/45473846/160265256-d4a1f208-b3ee-4ce7-bba8-e6c980023e05.png)
+
+
+https://docs.python.org/3.10/library/itertools.html
