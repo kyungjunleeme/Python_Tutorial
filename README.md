@@ -10,7 +10,8 @@ https://docs.python.org/3/glossary.html
 type
 https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes
 
-
+context manager
+https://docs.python.org/3/reference/datamodel.html#with-statement-context-managers
 
 ![image](https://user-images.githubusercontent.com/45473846/160242427-850592aa-fb92-4703-a238-b31e3f068618.png)
 
