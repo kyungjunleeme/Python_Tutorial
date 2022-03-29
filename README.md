@@ -41,3 +41,10 @@ mostly because it wouldn’t be clear to which if clause a following else clause
 
 
 https://docs.python.org/3.10/library/itertools.html
+
+
+<img width="613" alt="image" src="https://user-images.githubusercontent.com/45473846/160595536-502b4991-d3f3-4392-99be-4cdc34712661.png">
+
+"klass" is a common convention in OOP code when referring to classes, because "class" and "Class" are often reserved already.
+https://news.ycombinator.com/item?id=19690657
+
