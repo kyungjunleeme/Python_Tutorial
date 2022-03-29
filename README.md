@@ -52,3 +52,9 @@ https://news.ycombinator.com/item?id=19690657
 
 https://docs.python.org/3/howto/descriptor.html
 
+migrations 파일 생성은 했으나, migrate 명령어를 수행하지 않은 단계에서도  
+만약 models.py 내 소스 코드 변경 (e.g 기존에 없던 필드 생성의 경우)이 있었다면 
+내부적으로 ORM이 동작하는 순간에 새롭게 생성된 필드가 없어서 에러가 발생할 수 있다. 
+> (착각했던 부분은 migration이 반영되지 않았기 때문에 전혀 문제가 없을 것이라고 생각햇다. migration을 적용하지 않았기에 분리된 환경이라고 생각했다. 하지만 애초에 python manage.py runserver를 할 때 -> 새로운 필드도 읽어서 로딩하는 걸 디버깅에서 확인했다.) > (에러가 발생한 이유는 기본적으로 모델.objecsts.last()만 하더라도 -> 이 과정에서 ORM을 거쳐 -> SELECT 명령문 수행 시 포함되는 필드에 새롭게 생성된 필드가 models.py 내의 새로운 필드를 참조해서 실행되기 때문이다.)
+
+https://docs.python.org/3/howto/descriptor.html#orm-example
