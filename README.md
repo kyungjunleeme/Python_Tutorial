@@ -48,3 +48,7 @@ https://docs.python.org/3.10/library/itertools.html
 "klass" is a common convention in OOP code when referring to classes, because "class" and "Class" are often reserved already.
 https://news.ycombinator.com/item?id=19690657
 
+
+
+https://docs.python.org/3/howto/descriptor.html
+
