@@ -1,5 +1,6 @@
 # Python_Tutorial
 
+https://python-course.eu/oop/introduction-to-descriptors.php
 
 https://docs.python.org/3/tutorial/index.html
 
