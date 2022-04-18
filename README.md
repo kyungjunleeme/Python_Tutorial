@@ -1,3 +1,7 @@
+# django 오픈소스에서 배우는 
+
+https://github.com/django/django/blob/main/django/db/models/fields/__init__.py
+
 # Runtime - 
 
 https://docs.python.org/3/library/python.html
