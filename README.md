@@ -1,4 +1,4 @@
-# django 오픈소스에서 배우는 
+# django 오픈소스에서 배우는 from functools import partialmethod, total_ordering
 
 https://github.com/django/django/blob/main/django/db/models/fields/__init__.py
 
