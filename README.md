@@ -3,6 +3,9 @@ https://docs.python.org/3/library/stdtypes.html?highlight=byte#binary-sequence-t
 
 <img width="639" alt="image" src="https://user-images.githubusercontent.com/45473846/166103429-12d5e36d-03b2-476a-8a3f-112bd60ae06b.png">
 
+# kib, gib
+https://blankspace-dev.tistory.com/342
+
 # python 3.0 의 
 https://docs.python.org/release/3.0.1/whatsnew/3.0.html#text-vs-data-instead-of-unicode-vs-8-bit
 
