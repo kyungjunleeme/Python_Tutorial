@@ -1,3 +1,18 @@
+# 인코딩/디코딩 # binary-sequence-types-bytes-bytearray-memoryview
+https://docs.python.org/3/library/stdtypes.html?highlight=byte#binary-sequence-types-bytes-bytearray-memoryview
+
+
+https://docs.python.org/3/library/codecs.html?highlight=utf#encodings-and-unicode
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+https://docs.python.org/3/reference/lexical_analysis.html#strings
+https://peps.python.org/pep-0393/
+
+
+https://www.youtube.com/watch?v=X4zlQkmjmfQ
+https://www.youtube.com/watch?v=njx8EzusUSA
+
+
+
 # django 오픈소스에서 배우는 from functools import partialmethod, total_ordering
 
 https://github.com/django/django/blob/main/django/db/models/fields/__init__.py
