@@ -1,6 +1,10 @@
 # 인코딩/디코딩 # binary-sequence-types-bytes-bytearray-memoryview
 https://docs.python.org/3/library/stdtypes.html?highlight=byte#binary-sequence-types-bytes-bytearray-memoryview
 
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/45473846/166103429-12d5e36d-03b2-476a-8a3f-112bd60ae06b.png">
+
+# python 3.0 의 
+https://docs.python.org/release/3.0.1/whatsnew/3.0.html#text-vs-data-instead-of-unicode-vs-8-bit
 
 https://docs.python.org/3/library/codecs.html?highlight=utf#encodings-and-unicode
 https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
