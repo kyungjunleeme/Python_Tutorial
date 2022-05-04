@@ -1,3 +1,7 @@
+# built in
+https://docs.python.org/3/library/functions.html
+
+
 # 인코딩/디코딩 # binary-sequence-types-bytes-bytearray-memoryview
 https://docs.python.org/3/library/stdtypes.html?highlight=byte#binary-sequence-types-bytes-bytearray-memoryview
 
