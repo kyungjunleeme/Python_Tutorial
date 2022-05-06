@@ -1,3 +1,8 @@
+# Q
+
+<img width="627" alt="image" src="https://user-images.githubusercontent.com/45473846/167167284-cd031bd5-3e73-4e62-8219-59c990745376.png">
+
+
 # built in
 https://docs.python.org/3/library/functions.html
 
