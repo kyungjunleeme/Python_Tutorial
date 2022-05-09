@@ -1,3 +1,7 @@
+# operator
+![image](https://user-images.githubusercontent.com/45473846/167428419-3c1e4212-40d7-4506-bc3c-9ad3f5d672b6.png)
+https://devbruce.github.io/python/py-40-getattr,hasattr,setattr/
+
 # Q
 
 <img width="627" alt="image" src="https://user-images.githubusercontent.com/45473846/167167284-cd031bd5-3e73-4e62-8219-59c990745376.png">
