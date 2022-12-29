@@ -1,3 +1,5 @@
+# https://runestone.academy/ns/books/published/fopp/Functions/Returningavaluefromafunction.html
+
 # operator
 ![image](https://user-images.githubusercontent.com/45473846/167428419-3c1e4212-40d7-4506-bc3c-9ad3f5d672b6.png)
 https://devbruce.github.io/python/py-40-getattr,hasattr,setattr/
